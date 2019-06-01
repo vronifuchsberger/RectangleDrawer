@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`draws a 2 by 2 rectangle 1`] = `
+"
+┌┐
+└┘"
+`;
+
+exports[`draws a 5 by 3 rectangle 1`] = `
+"
+┌---┐
+|   |
+└---┘"
+`;
+
+exports[`draws a 5 by 5 rectangle 1`] = `
+"
+┌---┐
+|   |
+|   |
+|   |
+└---┘"
+`;
